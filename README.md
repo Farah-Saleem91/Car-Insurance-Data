@@ -1,4 +1,5 @@
-![car insurance](https://github.com/user-attachments/assets/14a16eee-a2e3-4102-b0ca-1d25f56bae5b)
+
+![dataset-cover](https://github.com/user-attachments/assets/ec624141-2d46-48d9-a66a-3602ae1b9b8b)
 
 # 🚗 Car Insurance Data Analysis
 
